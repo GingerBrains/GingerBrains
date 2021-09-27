@@ -1,6 +1,6 @@
 ### Hi there, I'm Laurel - aka [GingerBrains][website] 👋
 
-[![Website](https://img.shields.io/website?label=GingerBrains&style=for-the-badge)]
+![Website](https://img.shields.io/website?label=GingerBrains&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/DsouzaLaurel?color=1DA1F2&label=GingerBrains&logo=Twitter&style=for-the-badge)
 
 ## I'm a Student Developer!!
