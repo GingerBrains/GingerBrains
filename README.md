@@ -7,7 +7,7 @@
 
 - 🔭 I just earned my first certification [Certificate][certificate]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learn Data Structures and Algorithms
+- 🥅 2022 Goals: Learn Data Structures and Algorithms
 - ⚡ Fun fact: I DO NOT use Arch Linux
 
 ### Connect with me:
