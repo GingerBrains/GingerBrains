@@ -6,8 +6,8 @@
 ## I'm a Student Developer!!
 
 - 🔭 I just earned my first certification [Certificate][certificate]!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn Data Structures and Algorithms
+- 🌱 I’m currently learning Data Science
+- 🥅 2022 Goals: Develop a project from scratch using Machine Learning 
 - ⚡ Fun fact: I DO NOT use Arch Linux
 
 ### Connect with me:
