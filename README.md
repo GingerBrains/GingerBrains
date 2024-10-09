@@ -7,7 +7,7 @@
 
 - 🔭 Recent Achievement [Certificate][certificate]!
 - 🌱 I’m currently pursuing my Masters degree in Machine Learning
-- 🥅 2023 Goals: Not fail a course :P 
+- 🥅 2024 Goals: Not fail a course :P 
 - ⚡ Fun fact: I DO NOT use Arch Linux
 
 ### Connect with me:
