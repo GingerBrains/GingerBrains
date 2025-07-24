@@ -1,10 +1,3 @@
- ____ ____ ____ ____ ____ ____ 
-||L |||A |||U |||R |||E |||L ||
-||__|||__|||__|||__|||__|||__||
-|/__\|/__\|/__\|/__\|/__\|/__\|
-                                                                                                                                                              
-```
-
 # Hi, I'm Laurel 👋
 
 I'm a tech enthusiast with a passion for learning, building, and experimenting.
@@ -28,14 +21,6 @@ I'm a tech enthusiast with a passion for learning, building, and experimenting.
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-000000?style=flat-square&logo=windows-terminal&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Laurel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GingerBrains&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GingerBrains&layout=compact&hide=html,css,javascript)
 
 ---
 
