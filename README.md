@@ -1,7 +1,7 @@
 # Hi, I'm Laurel 👋
 
 I'm a tech enthusiast with a passion for learning, building, and experimenting.
-
+I use NixOs btw.
 ---
 
 ## 🎓 Recent Achievement
