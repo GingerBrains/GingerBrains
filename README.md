@@ -21,8 +21,6 @@ Currently building production AI systems and backend services at the University 
 - Advanced Java & Spring Boot
 - Distributed systems design
 - Kubernetes
-- LLMOps and AI infrastructure
-- System design for large-scale applications
 
 ## 🔨 Current Work
 
